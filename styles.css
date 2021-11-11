@@ -1,0 +1,11 @@
+div {
+  background-color: darkmagenta;
+  color: antiquewhite;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 20px;
+  line-height: 100px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: "Roboto";
+}
